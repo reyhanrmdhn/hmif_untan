@@ -1,0 +1,2 @@
+[26-Nov-2021 03:17:48 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../fpdf/fpdf.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tokojeru/hmif-untan.tech/webinar/application/views/user/sertifikat/Class1/basic.php on line 2
+[26-Nov-2021 03:19:00 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '../fpdf/fpdf.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tokojeru/hmif-untan.tech/webinar/application/views/user/sertifikat/Class1/basic.php on line 2
