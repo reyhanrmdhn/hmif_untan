@@ -152,13 +152,13 @@ $db['default'] = array(
 
 	'dsn'	=> '',
 
-	'hostname' => '103.163.138.27',
+	'hostname' => 'localhost',
 
-	'username' => 'tokojeru_dev',
+	'username' => 'root',
 
-	'password' => 'p;hzO$Q(5c=f',
+	'password' => 'root',
 
-	'database' => 'tokojeru_hmif',
+	'database' => 'hmif',
 
 	'dbdriver' => 'mysqli',
 
